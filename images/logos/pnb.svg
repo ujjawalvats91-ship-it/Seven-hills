@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="Punjab National Bank">
+  <circle cx="32" cy="20" r="18" fill="#a31d3a"/>
+  <circle cx="32" cy="20" r="13.5" fill="none" stroke="#f7a823" stroke-width="2.2"/>
+  <path d="M26 29V11h7.4a5.6 5.6 0 0 1 0 11.2H30.5V29z" fill="#fff"/>
+  <circle cx="33.4" cy="16.6" r="2" fill="#a31d3a"/>
+</svg>
